@@ -9,7 +9,7 @@
     "require": {
         "php": ">=7.1.0",
         "laravel/nova": "*",
-        "spatie/eloquent-sortable": "^3.4"
+        "spatie/eloquent-sortable": "^4.0"
     },
     "autoload": {
         "psr-4": {
